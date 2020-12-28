@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Jasper, a recent graduate in MSc. Mathematical Finance and Economics from UNC Charlotte and MSc. Applied Economics and Finance from Copenhagen Business School. I have experience coding in R, Python, MATLAB, and SQL. 
+
+🌱 I’m currently learning about machine learning methods in Python and improving my SQL skills. 
+
+📫 You can reach me on jasperdebles@gmail.com
+
+⚡ Fun fact: 我可以说中文一点点 
+
 <!--
 **jasperdebles/jasperdebles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
