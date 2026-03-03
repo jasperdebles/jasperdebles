@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-I'm Jasper, a recent graduate in MSc. Mathematical Finance and Economics from UNC Charlotte and MSc. Applied Economics and Finance from Copenhagen Business School. I have experience coding in R, Python, MATLAB, and SQL. 
+I'm Jasper, majored in MSc. Mathematical Finance and Economics from UNC Charlotte and MSc. Applied Economics and Finance from Copenhagen Business School. I also completed engineering courses at Ghent University. I'm on the path of becoming an expert full stack developer. 
 
-🌱 I’m currently learning about machine learning methods in Python and improving my SQL skills. 
+Stack: 
+Python (Flask, Django) - PHP (Laravel, WordPress Plugins) - R - SQL - MATLAB
+Docker - GitHub - Azure DevOps - UiPath
+
+🌱 I’m currently learning about Flask and Laravel.
+
+🔭 I’m currently working on WP plugins with Docker and PHP.
 
 📫 You can reach me on jasperdebles@gmail.com
 
