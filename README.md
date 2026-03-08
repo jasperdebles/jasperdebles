@@ -2,6 +2,8 @@
 
 I'm Jasper, majored in MSc. Mathematical Finance and Economics from UNC Charlotte and MSc. Applied Economics and Finance from Copenhagen Business School. I also completed engineering courses at Ghent University. I'm on the path of becoming an expert full stack developer. 
 
+🐧 Ubuntu is my operating system.
+
 Stack: 
 Python (Flask, Django) - PHP (Laravel, WordPress Plugins) - R - SQL - MATLAB
 Docker - GitHub - Azure DevOps - UiPath
