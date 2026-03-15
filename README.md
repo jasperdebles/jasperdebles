@@ -2,10 +2,10 @@
 
 I'm Jasper, majored in MSc. Mathematical Finance and Economics from UNC Charlotte and MSc. Applied Economics and Finance from Copenhagen Business School. I also completed engineering courses at Ghent University. I'm on the path of becoming an expert full stack developer. 
 
-🐧 Ubuntu is my operating system.
+🐧 Ubuntu is my operating system since 2025. Better late than never!
 
 Stack: 
-Python (Flask, Django) - PHP (Laravel, WordPress Plugins) - R - SQL - MATLAB
+Python (Flask) - PHP (Laravel, WordPress Plugins) - R - SQL - MATLAB
 Docker - GitHub - Azure DevOps - UiPath
 
 🌱 I’m currently learning about Flask and Laravel.
@@ -15,6 +15,10 @@ Docker - GitHub - Azure DevOps - UiPath
 📫 You can reach me on jasperdebles@gmail.com
 
 ⚡ Fun fact: 我可以说中文一点点 
+
+🏗️ Website: under construction
+
+🌍 The world is your playground! 
 
 <!--
 **jasperdebles/jasperdebles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
