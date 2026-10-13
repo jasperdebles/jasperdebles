@@ -4,8 +4,11 @@ I'm Jasper, majored in MSc. Mathematical Finance and Economics from UNC Charlott
 
 🐧 Ubuntu is my operating system since 2025. Better late than never!
 
+### Live working projects: 
+- **niche-scraper** [scraping, API, AI-agent, Python, Cron]: An autonomous AI workflow agent that scrapes data from targeted sources (such as industry magazines or news sites), analyzes the content to identify operational challenges and startup opportunities, and delivers a daily brief to my inbox every morning at 08:00.
+
 Stack: 
-Python (Flask) - PHP (Laravel, WordPress Plugins) - R - SQL - MATLAB
+Python (Flask) - C/C++, PHP (Laravel, WordPress Plugins) - R - SQL - MATLAB
 Docker - GitHub - Azure DevOps - UiPath
 
 🌱 I’m currently learning about Flask and Laravel.
